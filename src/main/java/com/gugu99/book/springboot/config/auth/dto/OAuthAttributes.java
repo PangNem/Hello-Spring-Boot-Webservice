@@ -2,7 +2,6 @@ package com.gugu99.book.springboot.config.auth.dto;
 
 import com.gugu99.book.springboot.domain.user.Role;
 import com.gugu99.book.springboot.domain.user.User;
-import jdk.dynalink.NamedOperation;
 import lombok.Builder;
 import lombok.Getter;
 
